@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: mediumslateblue;
+}
+.row>*{
+    padding-right: 0;
+}
+.box-write{
+    bottom: -40px;
+    padding: 40px;
+    width: 93%;
+}
